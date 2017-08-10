@@ -1,0 +1,16 @@
+{
+  "main": "index.html",
+  "name": "2D_scroll_game",
+  "description": "2D-scroll-game",
+  "version": "1.0.0",
+  "window": {
+    "title": "2D_scroll_game",
+    "width": 820,
+    "height": 560,
+    "min_width": 820,
+    "min_height": 560,
+    "max_width": 820,
+    "max_height": 560
+  }
+}
+
